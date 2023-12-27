@@ -1,4 +1,4 @@
-# UNP-Project_BI-with-power-BI-supply-chain
+# UNP-Project_BI-with-power-BI-HR
 completed this project as a part of BI with powerBI internship with united network of professionals (UNP)
 
 key insights
